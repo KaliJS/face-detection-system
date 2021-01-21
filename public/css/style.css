@@ -1,0 +1,23 @@
+.btn-primary{
+  background-color: #a84040 !important;
+  outline: 0px !important;
+  border:0px !important;
+  font-weight: bold !important;
+  border-radius: 5px !important;
+}
+.modal{
+  position: static;
+}
+
+#regis{
+  cursor: pointer;
+}
+
+#regis:hover{
+	font-weight: bold;
+}
+
+.btn-primary:hover{
+	color:black;
+	
+}

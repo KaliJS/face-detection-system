@@ -1,0 +1,19 @@
+.bounding-box {
+  position: absolute;
+  box-shadow: 0 0 0 3px #149df2 inset;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  cursor: pointer;
+}
+.absolute{
+	position: absolute;
+	 left: 50%; 
+	 transform: translate(-50%,0);
+	 z-index: 1 
+}
+
+.face{
+	text-align: center;
+	margin: 0 auto;
+}
